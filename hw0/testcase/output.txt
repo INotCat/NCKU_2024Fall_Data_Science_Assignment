@@ -1,0 +1,30 @@
+Input the polynomials: (X+2*Y)(2*X^2-Y^2+Z)
+Output Result: 2*X^3 - XY^2 + XZ + 4*X^2Y - 2*Y^3 + 2*YZ
+Output Result: 2X3 - XY2 + XZ + 4X2Y - 2Y3 + 2YZ
+Input the polynomials: (2*X+3*Y+4*Z)(XY^2+X^2Y+Z^2)
+Output Result: 5*X^2Y^2 + 2*X^3Y + 2*XZ^2 + 3*XY^3 + 3*YZ^2 + 4*XY^2Z + 4*X^2YZ + 4*Z^3
+Output Result: 5X2Y2 + 2X3Y + 2XZ2 + 3XY3 + 3YZ2 + 4XY2Z + 4X2YZ + 4Z3
+Input the polynomials: (A+2*B^2)(B+3*C^3)(2*A+B+C)
+Output Result: 2*A^2B + AB^2 + ABC + 6*A^2C^3 + 3*ABC^3 + 3*AC^4 + 4*AB^3 + 2*B^4 + 2*B^3C + 12*AB^2C^3 + 6*B^3C^3 + 6*B^2C^4
+Output Result: 2A2B + AB2 + ABC + 6A2C3 + 3ABC3 + 3AC4 + 4AB3 + 2B4 + 2B3C + 12AB2C3 + 6B3C3 + 6B2C4
+Input the polynomials: (X+2Y)(2X2-Y2+Z)
+Output Result: 2*X^3 - XY^2 + XZ + 4*X^2Y - 2*Y^3 + 2*YZ
+Output Result: 2X3 - XY2 + XZ + 4X2Y - 2Y3 + 2YZ
+Input the polynomials: (2X+3Y+4Z)(XY2+X2Y+Z2)
+Output Result: 5*X^2Y^2 + 2*X^3Y + 2*XZ^2 + 3*XY^3 + 3*YZ^2 + 4*XY^2Z + 4*X^2YZ + 4*Z^3
+Output Result: 5X2Y2 + 2X3Y + 2XZ2 + 3XY3 + 3YZ2 + 4XY2Z + 4X2YZ + 4Z3
+Input the polynomials: (A+2B2)(B+3C3)(2A+B+C)
+Output Result: 2*A^2B + AB^2 + ABC + 6*A^2C^3 + 3*ABC^3 + 3*AC^4 + 4*AB^3 + 2*B^4 + 2*B^3C + 12*AB^2C^3 + 6*B^3C^3 + 6*B^2C^4
+Output Result: 2A2B + AB2 + ABC + 6A2C3 + 3ABC3 + 3AC4 + 4AB3 + 2B4 + 2B3C + 12AB2C3 + 6B3C3 + 6B2C4
+Input the polynomials: (X+1)(X+1)(X+1)(X+1)(X+1)(X+1)(X+1)
+Output Result: X^7 + 7*X^6 + 21*X^5 + 35*X^4 + 35*X^3 + 21*X^2 + 7*X + 1
+Output Result: X7 + 7X6 + 21X5 + 35X4 + 35X3 + 21X2 + 7X + 1
+Input the polynomials: (X-1)(X-1)(X-1)(X-1)(X-1)(X-1)(X-1)
+Output Result: X^7 - 7*X^6 + 21*X^5 - 35*X^4 + 35*X^3 - 21*X^2 + 7*X - 1
+Output Result: X7 - 7X6 + 21X5 - 35X4 + 35X3 - 21X2 + 7X - 1
+Input the polynomials: (10*X^4YZA^3BC-C^100+X^5A^3)(X-1)(A-10+BC)
+Output Result: 10*A^4BCX^5YZ - 100*A^3BCX^5YZ + 10*A^3B^2C^2X^5YZ - 10*A^4BCX^4YZ + 100*A^3BCX^4YZ - 10*A^3B^2C^2X^4YZ - AC^100X + 10*C^100X - BC^101X + AC^100 - 10*C^100 + BC^101 + A^4X^6 - 10*A^3X^6 + A^3BCX^6 - A^4X^5 + 10*A^3X^5 - A^3BCX^5
+Output Result: 10A4BCX5YZ - 100A3BCX5YZ + 10A3B2C2X5YZ - 10A4BCX4YZ + 100A3BCX4YZ - 10A3B2C2X4YZ - AC100X + 10C100X - BC101X + AC100 - 10C100 + BC101 + A4X6 - 10A3X6 + A3BCX6 - A4X5 + 10A3X5 - A3BCX5
+Input the polynomials: (10X4YZA3BC-C100+X5A3)(X-1)(A-10+BC)
+Output Result: 10*A^4BCX^5YZ - 100*A^3BCX^5YZ + 10*A^3B^2C^2X^5YZ - 10*A^4BCX^4YZ + 100*A^3BCX^4YZ - 10*A^3B^2C^2X^4YZ - AC^100X + 10*C^100X - BC^101X + AC^100 - 10*C^100 + BC^101 + A^4X^6 - 10*A^3X^6 + A^3BCX^6 - A^4X^5 + 10*A^3X^5 - A^3BCX^5
+Output Result: 10A4BCX5YZ - 100A3BCX5YZ + 10A3B2C2X5YZ - 10A4BCX4YZ + 100A3BCX4YZ - 10A3B2C2X4YZ - AC100X + 10C100X - BC101X + AC100 - 10C100 + BC101 + A4X6 - 10A3X6 + A3BCX6 - A4X5 + 10A3X5 - A3BCX5
